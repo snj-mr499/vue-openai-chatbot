@@ -14,7 +14,7 @@ export const customerSupportAgent = createAgent((context) => {
       {
         role: "user",
         content: `If I ask any question NOT related to the 
-        'Social Media Post Generator' application, DO NOT answer the question at all.
+        'Social Media Post Generator' application, DO NOT answer the question at all. If I ask question about dog breed, DO NOT answer the question.
         Instead politely decline.
         `,
       },

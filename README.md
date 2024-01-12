@@ -2,6 +2,10 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## How to run the program
+
+To run the program and make OpenAI API calls, first create OpenAI account and get API Key then insert the key in .env file
+
 ## Setup
 
 Make sure to install the dependencies:
@@ -16,6 +20,7 @@ npm install
 # pnpm
 pnpm install
 ```
+
 
 ## Development Server
 
