@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
   "dotenv.enableAutocloaking": false,
   "typescript.tsdk": "node_modules/typescript/lib"
+=======
+  "dotenv.enableAutocloaking": true
+>>>>>>> 357393524c2e0b25ead22831a4eee23cb79d4668
 }
